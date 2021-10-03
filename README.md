@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @shazaraza
-I'm currently working on building the technical aspect of my skills using game development (and hopefully some statistical programming too!).
-I have some old projects on here, but I am currently working on building an emulator in C
+- 👋 Hi, I’m @shazaraza and my goal is to at least try out all aspects of development. The three main areas that I would like to further develop are: Web development(HTML,CSS, Javascript), game development(C# in Unity) and lastly Data Analysis.
+- 
